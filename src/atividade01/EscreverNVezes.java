@@ -13,6 +13,6 @@ public class EscreverNVezes {
 	}
 
 	public static void main(String[] args) {
-		EscreverNVezes.executar("olá mundo!", 3);
+		EscreverNVezes.executar("olá mundo!!", 3);
 	}
 }
